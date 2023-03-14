@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Rishyanth Visinigiri</h1>
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
-![image](https://user-images.githubusercontent.com/66677354/224929734-b58cd31f-8c91-4320-b64d-16302d1c57ac.png)
+
+![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster-_1_](https://user-images.githubusercontent.com/66677354/224931829-6de64608-99f0-49ea-bfd9-a8d8fa7ed8b1.gif)
 
 
 
