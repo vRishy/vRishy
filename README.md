@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Rishyanth Visinigiri</h1>
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
-![avento](https://user-images.githubusercontent.com/66677354/225054884-19eba587-9795-4b8e-b28b-e321976f7386.gif)
-
-
+<img src="![avento](https://user-images.githubusercontent.com/66677354/225054884-19eba587-9795-4b8e-b28b-e321976f7386.gif)" alt="Me" class="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishy&label=Profile%20views&color=0e75b6&style=flat" alt="vrishy" /> </p>
 
