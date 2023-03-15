@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/66677354/225418266-69fd0542-9eb7-4d8a-b065-17f1a2b3e345.gif" width="1200" height="400"  />
 
-<h1 align="center">Hi! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Kavya Reddy Vutukuri</h1>
+<h1 align="center">Hi! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm **SAI RISHYANTH VISINIGIRI**</h1>
 
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
