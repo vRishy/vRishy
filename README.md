@@ -1,9 +1,8 @@
+<img src="https://user-images.githubusercontent.com/66677354/225418266-69fd0542-9eb7-4d8a-b065-17f1a2b3e345.gif" width="1200" height="400"  />
 
-![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster-_1_](https://user-images.githubusercontent.com/66677354/225057534-40290fb1-e1e1-4a26-8aa6-dc6ad029e4aa.gif)
+<h1 align="center">Hi! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Kavya Reddy Vutukuri</h1>
 
-<h1 align="center">Hi 👋, I'm Sai Rishyanth Visinigiri</h1>
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishy&label=Profile%20views&color=0e75b6&style=flat" alt="vrishy" /> </p>
