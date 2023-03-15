@@ -1,7 +1,9 @@
+
+![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster-_1_](https://user-images.githubusercontent.com/66677354/225057534-40290fb1-e1e1-4a26-8aa6-dc6ad029e4aa.gif)
+
 <h1 align="center">Hi 👋, I'm Sai Rishyanth Visinigiri</h1>
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
-![booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster-_1_](https://user-images.githubusercontent.com/66677354/225057534-40290fb1-e1e1-4a26-8aa6-dc6ad029e4aa.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishy&label=Profile%20views&color=0e75b6&style=flat" alt="vrishy" /> </p>
