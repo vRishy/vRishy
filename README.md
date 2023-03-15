@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66677354/225420354-6b83c742-5b5e-4880-b115-31ae3858f5f9.gif" width="1200" height="400"  />
-
+<img src="https://user-images.githubusercontent.com/66677354/225420792-71098672-a76b-4275-93d7-83f151bb67e6.gif" width="1200" height="400"  />
 
 <h1 align="center">Hi! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Sai Rishyanth Visinigiri</h1>
 
