@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Machine Learning & Full Stack Development**
 
+- 👯 I’m looking to collaborate on [Rock-Paper-Scissors Game](https://github.com/Kavya-reddy-vutukuri/Rock-Paper-Scissiors-Game)
+
 - 👨‍💻 All of my projects are available at [https://github.com/vRishy](https://github.com/vRishy)
 
 - 📫 How to reach me **visinigiririshyanth@gmail.com, sr2609@srmist.edu.in**
