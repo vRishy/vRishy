@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/66677354/225420792-71098672-a76b-4275-93d7-83f151bb67e6.gif" width="1200" height="400"  />
 
-<h1 align="center">Hi! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Sai Rishyanth Visinigiri</h1>
+<h1 align="center">Hey! <img src="https://c.tenor.com/4kIHjPaMiDoAAAAi/the-blobs-live-on-waving.gif" height="40" width="40" /> , I'm Sai Rishyanth Visinigiri</h1>
 
 <h3 align="center">A Second-year Computer Science Engineering Student with a Passion for AI&ML and Data Science.</h3>
 
